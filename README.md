@@ -4,7 +4,7 @@ I am Avantika Prativadhi,a rising senior pursuing my Bachelors degree in Computa
 
 I enjoy coding and have basic knowledge in Matlab, Python, R, Java, and Fortran. Aside from my college classes, I'm enrolled in online courses offered on Udemy and DataCamp to strenghten my  skills. 
 
-In my free time, I enjoy reading, painting, and exploring. I am also currently attempting to learn how to play the guitar! 
+
 
 <!--
 **aprativ/aprativ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
