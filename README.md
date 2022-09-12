@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am Avantika Prativadhi,a rising senior pursuing my Bachelors degree in Computational and Data Sciences. 
+I am Avantika Prativadhi,a senior pursuing my Bachelors degree in Computational and Data Sciences. 
 
-I enjoy coding and have basic knowledge in Matlab, Python, R, Java, and Fortran. Aside from my college classes, I'm enrolled in online courses offered on Udemy and DataCamp to strenghten my  skills. 
+I enjoy coding and have basic knowledge in Matlab, Python, R, Java, and Fortran. Aside from my college classes, I'm enrolled in online courses offered on Udemy and DataCamp to strenghten my skills. 
 
 
 
