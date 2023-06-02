@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-I am Avantika Prativadhi,a senior pursuing my Bachelors degree in Computational and Data Sciences. 
+I am Avantika Prativadhi, a recent graduate with a Bachelor's degree in Computational and Data Sciences. I'm passionate about leveraging data to gain insights and make informed decisions.
 
-I enjoy coding and have knowledge in Matlab, Python, R, Java, and Fortran. Aside from my college classes, I'm enrolled in online courses offered on Udemy and DataCamp to strenghten my skills. 
+I have a strong command of Python, R, SQL, and various data visualization tools, which I have used to analyze and interpret data, develop statistical models, and implement machine learning algorithms. I am constantly seeking new opportunities to apply my skills and expand my knowledge in the field of data science.
+
+Feel free to connect with me on Linkedin! 
+
 
 
 
